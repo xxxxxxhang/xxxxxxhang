@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xxxxxxhang
-- 👀 I’m interested in Games
+- 👀 I’m interested in Nothing
 - 🌱 I’m currently learning Nothing, I don't know
-- 📫 How to reach me ( not yet ready)
+- 📫 How to reach me (not yet ready)
 
 <!---
 xxxxxxhang/xxxxxxhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
